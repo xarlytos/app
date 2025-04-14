@@ -8,6 +8,7 @@
     "@react-navigation/core": "^6.4.0",
     "axios": "^1.6.7",
     "buffer": "^6.0.3",
+    "expo": "^52.0.44",
     "process": "^0.11.10",
     "react": "^18.2.0",
     "react-nativescript": "^5.0.0",
